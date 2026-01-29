@@ -1,2 +1,4 @@
 # hello-world
-Meu primeiro projeto no GitHub
+Meu primeiro projeto no GitHub do 1º período de ADS
+Estou aprendendo a me familiarizar com o GitHub e entendendo os processos
+Esou aprendendo como fazer um desenvolvimento web com portfólio profissional
